@@ -1,10 +1,9 @@
 // valores falsy
-console.log(!!0);
-console.log(!!"");
-console.log(!!null);
+console.log(!!0);//false
+console.log(!!"");//false
+console.log(!!null);//false
 
-//valores truthy
-console.log(!!1);
-console.log(!!"texto");
-console.log(!![]);
-console.log(!!{});
+console.log(!!1);//true
+console.log(!!"texto");//true
+console.log(!![]);//true
+console.log(!!{});//true(objetos cazios são turthy)
