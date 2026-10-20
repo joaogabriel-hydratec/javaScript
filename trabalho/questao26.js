@@ -4,4 +4,4 @@
 //   (const i = 0; i < 5; i++). 
   
 //   ( ) Verdadeiro
-//   ( ) Falso 
+//   (#) Falso 

@@ -2,7 +2,7 @@
 //  executado se nenhuma condição for 
 //  atendida? 
  
-//   A) break 
+//   A) break (correta)
 //   B) else  
 //   C) default 
 //   D) fallback 

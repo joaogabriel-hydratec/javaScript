@@ -4,7 +4,7 @@
      console.log(i);
      } 
 
-    //  A) 3 vezes  
+    //  A) 3 vezes  (correta)
     //  B) 4 vezes (5, 10, 15, 20).  
     //  C) 5 vezes 
     //  D) 20 vezes 

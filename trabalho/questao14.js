@@ -3,7 +3,7 @@
 
  console.log(5 == "5");
 
-//  A) true  
+//  A) true  (Correta)
 //  B) false  
 //  C) undefined 
 //   D) NaN 

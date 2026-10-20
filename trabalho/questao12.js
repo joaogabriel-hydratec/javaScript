@@ -2,4 +2,4 @@
 //  idade; é uma atribuição válida em 
 //  JavaScript.
 
-// ( ) Verdadeiro  ( ) Falso 
+// ( ) Verdadeiro  (#) Falso 

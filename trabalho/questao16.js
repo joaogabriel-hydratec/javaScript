@@ -7,6 +7,6 @@ let n1 = 10;
   console.log(n1 !== n2);
 
 //    A) false, pois os valores são iguais. 
-//     B) true, pois embora os valores sejam iguais, os tipos são diferentes.  
+//     B) true, pois embora os valores sejam iguais, os tipos são diferentes.  (correta)
 //     C) undefined 
 //      D) Error 

@@ -11,6 +11,6 @@ default:
 console.log("Participante"); }
 
 // A) 2º Lugar  
-// B) 2º Lugar, 3º Lugar e Participante. 
+// B) 2º Lugar, 3º Lugar e Participante. (correta)
 // C) Prata 
 //  D) Participante 

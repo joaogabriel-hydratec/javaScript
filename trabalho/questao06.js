@@ -4,4 +4,4 @@
 //  uma vez, logo no início do laço.
 
 // ( ) Verdadeiro  
-// ( ) Falso. 
+// (#) Falso. 

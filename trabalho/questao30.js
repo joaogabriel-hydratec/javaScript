@@ -3,5 +3,5 @@
 // valor "truthy" em false e um valor
 //  "falsy" em true. 
  
-//  ( ) Verdadeiro
+//  (#) Verdadeiro
 // ( ) Falso 

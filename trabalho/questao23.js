@@ -5,4 +5,4 @@
     //  A) O laço nunca executa.
     // B) O laço executa apenas uma vez.  
     // C) O laço se torna infinito.  
-    // D) O JavaScript gera um erro de sintaxe imediatamente. 
+    // D) O JavaScript gera um erro de sintaxe imediatamente.  (correta)

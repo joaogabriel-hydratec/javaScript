@@ -13,6 +13,6 @@
              } 
 
 // A) Acesso Total
-// B) Acesso Limitado 
+// B) Acesso Limitado (correta)
 // C) Negado 
 // D) O código não imprime nada. 

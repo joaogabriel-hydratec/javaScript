@@ -8,6 +8,6 @@
      } 
 
 //  A) Imprime "Opção B", pois 0 é falso.
-//  B) Imprime "Opção A", pois o símbolo = atribuiu 10 a x, e 10 é truthy. 
+//  B) Imprime "Opção A", pois o símbolo = atribuiu 10 a x, e 10 é truthy. (correta) 
 //  C) O código dá erro porque não se pode usar = dentro do if. 
 //  D) Não imprime nada.

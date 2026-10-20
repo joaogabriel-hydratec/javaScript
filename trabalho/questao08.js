@@ -15,6 +15,6 @@ let status = (vidaHeri > 0) ? "Vivo" : (pocao)
  console.log(status); 
 
 //  A) Vivo  
-//  B) Ressuscitado.  
+//  B) Ressuscitado.  (correta)
 //  C) Game Over 
 //  D) Erro de sintaxe no operador ternário. 

@@ -3,6 +3,6 @@
    console.log(5 === "5"); 
 
 // A) true
-// B) false 
+// B) false (correta)
 // C) null 
 //  D) TypeError 

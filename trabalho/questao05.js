@@ -2,9 +2,10 @@
 //  quantas vezes a palavra "JavaScript"
 //  aparecerá no console:
 
- for (let i = 1; i <= 4; i++) {}
+ for (let i = 1; i <= 4; i++) { 
+    console.log("JavaScript"); } 
 
-// A) Vivo  
-// B) Ressuscitado.  
-// C) Game Over  
-// D) Erro de sintaxe no operador ternário. 
+//  A) 3 vezes  
+//  B) 4 vezes.  (correta)
+//  C) 5 vezes  
+//  D) Nenhuma vez, pois o i começa em 1.

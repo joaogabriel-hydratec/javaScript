@@ -8,4 +8,4 @@ a = b = c = 100;
 // A) a=100, b=0, c=0  
 // B) a=300, b=200, c=100 
 // C) a=100, b=100, c=100 
-// D) O código gerará um erro de sintaxe. 
+// D) O código gerará um erro de sintaxe. (correta)

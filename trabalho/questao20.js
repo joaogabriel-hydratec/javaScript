@@ -6,6 +6,6 @@
  : "Recuperação";
     
 // A) Aprovado  
-// B) Recuperação  
+// B) Recuperação  (correta)
 // C) 7  
 // D) true 

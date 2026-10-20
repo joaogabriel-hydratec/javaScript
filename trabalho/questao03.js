@@ -12,6 +12,6 @@ console.log("Vamos ao cinema!");
 console.log("Ficaremos em casa."); 
 }
 //   A) Vamos à praia!
-//   B) Vamos ao cinema! 
+//   B) Vamos ao cinema! (correta)
 //   C) Ficaremos em casa. 
 //   D) O código resultará em erro por causa do operador !. 

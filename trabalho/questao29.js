@@ -7,6 +7,6 @@
   let resultado = (a == b && c > a);
   
 // A) false 
-//  B) true 
+//  B) true (correta)
 //  C) undefined
 //  D) Erro de sintaxe 

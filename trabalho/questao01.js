@@ -5,7 +5,7 @@ x += 5;
 let y = "15"; 
 let resultado = (x === y); 
 
-// A) true 
-// B) false 
+// A) true  
+// B) false (correta)
 // C) 1515 
 // D) undefined

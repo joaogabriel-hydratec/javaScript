@@ -9,6 +9,6 @@
  }
 
 // A) 10 
-// B) 5 (O laço conta quantos números pares existem entre 0 e 9). 
+// B) 5 (O laço conta quantos números pares existem entre 0 e 9). (correta)
 // C) 2
 //  D) 0 
